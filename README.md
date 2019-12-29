@@ -1,2 +1,2 @@
-# grpc-lean
-gRpc leaning
+# grpc-learn
+gRpc learning
